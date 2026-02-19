@@ -1,5 +1,5 @@
 /* =========================================
-   FUENTES
+   PUBLICO HEADLINE BOLD
 ========================================= */
 
 @font-face {
@@ -9,15 +9,8 @@
   font-style: normal;
 }
 
-@font-face {
-  font-family: 'SourceSansProSemibold';
-  src: url('../fonts/SourceSansPro-Semibold.woff') format('woff');
-  font-weight: 600;
-  font-style: normal;
-}
-
 /* =========================================
-   MY AXA
+   SOLO TITULOS H3
 ========================================= */
 
 h3.ui.header {
@@ -26,11 +19,9 @@ h3.ui.header {
   color: #343C3D !important;
 }
 
-p {
-  font-family: 'SourceSansProSemibold', sans-serif !important;
-  font-size: 24px !important;
-  color: #343C3D !important;
-}
+/* =========================================
+   OCULTAR REMEMBER ME
+========================================= */
 
 #chkRemember,
 label[for="chkRemember"],
@@ -38,3 +29,4 @@ label[for="chkRemember"],
 .remember-me {
   display: none !important;
 }
+
