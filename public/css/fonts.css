@@ -32,4 +32,9 @@ p {
   color: #343C3D !important;
 }
 
-
+#chkRemember,
+label[for="chkRemember"],
+.checkbox,
+.remember-me {
+  display: none !important;
+}
