@@ -9,24 +9,3 @@
   font-style: normal;
 }
 
-/* =========================================
-   SOLO TITULOS H3
-========================================= */
-
-h3.ui.header {
-  font-family: 'PublicoHeadlineBold', sans-serif !important;
-  font-size: 32px !important;
-  color: #343C3D !important;
-}
-
-/* =========================================
-   OCULTAR REMEMBER ME
-========================================= */
-
-#chkRemember,
-label[for="chkRemember"],
-.checkbox,
-.remember-me {
-  display: none !important;
-}
-
