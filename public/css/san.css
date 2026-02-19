@@ -1,0 +1,15 @@
+/* =========================================
+   PUBLICO HEADLINE BOLD
+========================================= */
+
+@font-face {
+  font-family: 'PublicoHeadlineBold';
+  src: url('../fonts/SourceSansPro-Semibold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+
+h3.ui.header {
+  font-size: 26px !important;   /* antes estaba en 32px */
+}
