@@ -26,25 +26,10 @@ h3.ui.header {
   color: #343C3D !important;
 }
 
-label {
+p {
   font-family: 'SourceSansProSemibold', sans-serif !important;
   font-size: 24px !important;
   color: #343C3D !important;
 }
 
-/* =========================================
-   PORTAL DISTRIBUCIÓN
-========================================= */
-
-.portal-distribucion h3.ui.header {
-  font-family: 'PublicoHeadlineBold', sans-serif !important;
-  font-size: 28px !important;
-  color: #343C3D !important;
-}
-
-.portal-distribucion label {
-  font-family: 'PublicoHeadlineBold', sans-serif !important;
-  font-size: 28px !important;
-  color: #343C3D !important;
-}
 
